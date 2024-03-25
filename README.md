@@ -1,4 +1,4 @@
-# Tugas 1 Interaksi Manusia dan Komputer Pertemuan 3
+# Tugas 2 Interaksi Manusia dan Komputer Pertemuan 3
 
 Felicia Natania Lingga - 140810210007
 
