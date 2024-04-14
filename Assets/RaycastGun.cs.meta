@@ -1,14 +1,2 @@
 fileFormatVersion: 2
-guid: 0c60ec63e0a95d14ea11ddc192ffe991
-MonoImporter:
-  externalObjects: {}
-  serializedVersion: 2
-  defaultReferences:
-  - playerCamera: {instanceID: 0}
-  - laserOrigin: {instanceID: 0}
-  - gunshotSound: {fileID: 8300000, guid: d1f28fa409b7ed440ab6d898afbb1c7e, type: 3}
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+guid: 074c86cc99a90f443ab2221e4f68138b

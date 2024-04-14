@@ -48,6 +48,7 @@ public class RaycastGun : MonoBehaviour
             StartCoroutine(ShootLaser());
 
             AudioSource.PlayClipAtPoint(gunshotSound, laserOrigin.position);
+
         }
     }
 
